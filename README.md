@@ -55,7 +55,7 @@ A Data Structures and Algorithms crash course!
 ---
 
 ## 🐍 Watch My Contribution Snake!
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/{shadielfares}/{shadielfares}/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
