@@ -15,7 +15,7 @@ A Data Structures and Algorithms crash course!
 ## 📫 Contact
 For a quick response, [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/)!
 
-![Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadielfares&show_icons=true&theme=radical)
+<!-- ![Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadielfares&show_icons=true&theme=radical) -->
 
 <!--
 **shadielfares/shadielfares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
