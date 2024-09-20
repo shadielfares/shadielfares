@@ -60,13 +60,7 @@ A Data Structures and Algorithms crash course!
 ---
 
 ## 📫 How to Reach Me
-- For a quick response, hit me up on [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/)!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+- For a quick response, hit me up on [LinkedIn](https://www.linkedin.com/in/shadielfares/)!
 
 
 
