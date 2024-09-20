@@ -54,11 +54,6 @@ A Data Structures and Algorithms crash course!
 
 ---
 
-## 🐍 Watch My Contribution Snake!
-![Snake animation](https://raw.githubusercontent.com/{shadielfares}/{shadielfares}/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## 📫 How to Reach Me
 - For a quick response, hit me up on [LinkedIn](https://www.linkedin.com/in/shadielfares/)!
 
