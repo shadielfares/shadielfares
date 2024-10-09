@@ -6,7 +6,8 @@ I'm a second-year Software Engineering student [@ McMaster University](https://w
 ---
 
 ## 🔭 What I’m Currently Working On
-A Data Structures and Algorithms crash course!
+~~A Data Structures and Algorithms crash course!~~ - I found something cooler to build.
+HardLessonsDoneRight (HLDR) - become a better developer without cheating yourself out of the hard-times.
 
 ---
 
