@@ -14,7 +14,11 @@ HardLessonsDoneRight (HLDR) - become a better developer without cheating yoursel
 ## 📦 Toolbox
 
 ### **Languages**
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,csharp,cpp,matlab,dart,html,css,vite,nodejs,jquery,flask,wordpress,flutter,bootstrap,fastapi,git,github,firebase,aws,figma,jupyter,stripe,openai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,cs,cpp,matlab,dart,html,CSS)](https://skillicons.dev)
+### **Frameworks and Libraries**
+[![My Skills](https://skillicons.dev/icons?i=vite,nodejs,jquery,flask,wordpress,flutter,bootstrap,fastapi,ros)](https://skillicons.dev)
+### **Tools**
+[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,figma,jupyter,stripe,openai)](https://skillicons.dev)
 
 ---
 
