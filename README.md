@@ -1,11 +1,13 @@
 # Hi there, I am Shadi El-Fares 👋🏽 
-I'm a second-year Software Engineering student [@ McMaster University](https://www.eng.mcmaster.ca/)! Thank you for stopping by! I make engineering related youtube videos on Calculus, DSA, and even thermite... 👀 
+I'm a second-year Software Engineering student [@ McMaster University](https://www.eng.mcmaster.ca/)! Thank you for stopping by! 
 
 I'm into **startups**, **AI**, and *very deep philosophical conversations*.
 
-- Check out my [portfolio](https://shadielfares.me) to learn more about me.
-- Or my youtube channel!
-- [![YouTube Channel Banner](./yt-1.png)](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1)
+---
+### Check out my Portfolio to learn more about me 🫡
+[![Portfolio](./newbanner.png)](https://www.shadielfares.me/)
+### I also make engineering-related YouTube videos on Calculus, DSA, and even thermite... 👀 
+[![YouTube Channel Banner](./yt-1.png)](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1)
 
 
 ---
@@ -15,8 +17,8 @@ I'm into **startups**, **AI**, and *very deep philosophical conversations*.
 HardLessonsDoneRight (HLDR) - become a better developer without cheating yourself out of the hard-times.
 
 ---
-[![Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadielfares)](https://github.com/shadielfares/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shadielfares)](https://git.io/streak-stats)
+[![Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadielfares&theme=noctis_minimus)](https://github.com/shadielfares/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shadielfares&theme=noctis_minimus)](https://git.io/streak-stats)
 ---
 
 ## 📦 Toolbox
