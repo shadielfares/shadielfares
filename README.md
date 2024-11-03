@@ -12,38 +12,24 @@ HardLessonsDoneRight (HLDR) - become a better developer without cheating yoursel
 ---
 
 ## 📦 Toolbox
-### **Languages**
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,cs,cpp,matlab,dart,html,css,c)](https://skillicons.dev)
 
-### **Frameworks and Libraries**
-[![My Skills](https://skillicons.dev/icons?i=vite,nodejs,jquery,flask,wordpress,flutter,bootstrap,fastapi,ros,react,graphql,django,threejs)](https://skillicons.dev)
+### **Languages & Frameworks**
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,cs,cpp,matlab,dart,html,css,react,django,threejs,flask,wordpress,flutter,bootstrap,fastapi,ros,graphql)](https://skillicons.dev)
 
-### **Tools**
-[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,figma,docker,neovim,vim,powershell,obsidian)](https://skillicons.dev)
+### **Tools & Platforms**
+[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,figma,docker,neovim,vim,powershell,obsidian,heroku,vercel,githubactions,gitlab)](https://skillicons.dev)
 
-### **Platforms**
-[![My Skills](https://skillicons.dev/icons?i=heroku,vercel,githubactions,gitlab)](https://skillicons.dev)
+### **Databases & DevOps**
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,kubernetes)](https://skillicons.dev)
 
-### **Databases**
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+### **Editors & IDEs**
+[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,replit)](https://skillicons.dev)
 
-### **DevOps & Cloud**
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,kubernetes)](https://skillicons.dev)
+### **Miscellaneous Technologies**
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,linux,postman,maven,sas,unity,tensorflow,raspberrypi,nextjs,tailwind)](https://skillicons.dev)
 
-### **Miscellaneous**
-[![My Skills](https://skillicons.dev/icons?i=arduino,blender,linux,postman,maven,sass,unity,tensorflow)](https://skillicons.dev)
-
-### **Editors and IDEs**
-[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode)](https://skillicons.dev)
-
-### **Other Technologies**
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,nextjs,tailwind)](https://skillicons.dev)
-
-### **Contributions and Community**
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
-
-### **Additional Tools**
-[![My Skills](https://skillicons.dev/icons?i=vim,replit)](https://skillicons.dev)
+### **Contributions & Community**
+[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 
 ---
