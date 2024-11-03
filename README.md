@@ -1,7 +1,12 @@
-### Hello There! 👋🏽 
-I'm a second-year Software Engineering student [@ McMaster University](https://www.eng.mcmaster.ca/), and my name is Shadi! Thank you for stopping by! I'm passionate about **startups** and **AI**.
+# Hi there, I am Shadi El-Fares 👋🏽 
+I'm a second-year Software Engineering student [@ McMaster University](https://www.eng.mcmaster.ca/)! Thank you for stopping by! I make engineering related youtube videos on Calculus, DSA, and even thermite... 👀 
+
+I'm into **startups**, **AI**, and *very deep philosophical conversations*.
 
 - Check out my [portfolio](https://shadielfares.me) to learn more about me.
+- Or my youtube channel!
+- [![YouTube Channel Banner](./yt-1.png)](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1)
+
 
 ---
 
@@ -9,6 +14,9 @@ I'm a second-year Software Engineering student [@ McMaster University](https://w
 ~~A Data Structures and Algorithms crash course!~~ - I found something cooler to build.
 HardLessonsDoneRight (HLDR) - become a better developer without cheating yourself out of the hard-times.
 
+---
+[![Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadielfares)](https://github.com/shadielfares/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shadielfares)](https://git.io/streak-stats)
 ---
 
 ## 📦 Toolbox
