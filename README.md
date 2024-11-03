@@ -13,27 +13,30 @@ HardLessonsDoneRight (HLDR) - become a better developer without cheating yoursel
 
 ## 📦 Toolbox
 
-### **Languages & Frameworks**
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,cs,cpp,matlab,dart,html,css,react,django,threejs,flask,wordpress,flutter,bootstrap,fastapi,ros,graphql)](https://skillicons.dev)
+### **Languages**
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,cs,matlab,dart,go,html,css,latex,bash,md)](https://skillicons.dev)
+
+### **Frameworks & Libraries**
+[![My Skills](https://skillicons.dev/icons?i=react,vercel,threejs,django,express,flask,dotnet,wordpress,flutter,bootstrap,vite,sass,nextjs,tailwind,fastapi,ros,graphql,tensorflow,opencv,gatsby)](https://skillicons.dev)
 
 ### **Tools & Platforms**
-[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,figma,docker,neovim,vim,powershell,obsidian,heroku,vercel,githubactions,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,azure,docker,powershell,heroku,githubactions,gitlab,figma,blender,obsidian,notion)](https://skillicons.dev)
 
 ### **Databases & DevOps**
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,php,mysql,sqlite,aws,gcp,kubernetes)](https://skillicons.dev)
 
 ### **Editors & IDEs**
-[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim,vscode,visualstudio,pycharm,replit)](https://skillicons.dev)
 
 ### **Miscellaneous Technologies**
-[![My Skills](https://skillicons.dev/icons?i=arduino,blender,linux,postman,maven,sass,unity,tensorflow,raspberrypi,nextjs,tailwind)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=maven,unity,arduino,raspberrypi,linux,ubuntu,windows,postman)](https://skillicons.dev)
 
 ---
 
 ## 📫 How to Reach Me
-- For a quick response, hit me up on [LinkedIn](https://www.linkedin.com/in/shadielfares/)!
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shadielfares)
+[![My Skills](https://skillicons.dev/icons?i=twitter)]((https://twitter.com/shadielfares))
+
 
 
 
