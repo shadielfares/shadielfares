@@ -12,9 +12,6 @@ HardLessonsDoneRight (HLDR) - become a better developer without cheating yoursel
 ---
 
 ## 📦 Toolbox
-
-## 📦 Toolbox
-
 ### **Languages**
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,cs,cpp,matlab,dart,html,css,c)](https://skillicons.dev)
 
@@ -22,7 +19,7 @@ HardLessonsDoneRight (HLDR) - become a better developer without cheating yoursel
 [![My Skills](https://skillicons.dev/icons?i=vite,nodejs,jquery,flask,wordpress,flutter,bootstrap,fastapi,ros,react,graphql,django,threejs)](https://skillicons.dev)
 
 ### **Tools**
-[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,figma,jupyter,stripe,openai,docker,neovim,vim,powershell,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,figma,docker,neovim,vim,powershell,obsidian)](https://skillicons.dev)
 
 ### **Platforms**
 [![My Skills](https://skillicons.dev/icons?i=heroku,vercel,githubactions,gitlab)](https://skillicons.dev)
@@ -34,7 +31,7 @@ HardLessonsDoneRight (HLDR) - become a better developer without cheating yoursel
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,kubernetes)](https://skillicons.dev)
 
 ### **Miscellaneous**
-[![My Skills](https://skillicons.dev/icons?i=arduino,blender,linux,postman,maven,sas,unity,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,linux,postman,maven,sass,unity,tensorflow)](https://skillicons.dev)
 
 ### **Editors and IDEs**
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode)](https://skillicons.dev)
