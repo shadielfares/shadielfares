@@ -7,7 +7,7 @@ I'm into **startups**, **AI**, and *very deep philosophical conversations*.
 ### Check out my Portfolio to learn more about me 🫡
 [![Portfolio](./newbanner.png)](https://www.shadielfares.me/)
 ### I also make engineering-related YouTube videos on Calculus, DSA, and even thermite... 👀 
-[![YouTube Channel Banner](./yt-1.png)](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1)
+[![YouTube Channel Banner](./yt1-1.png)](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1)
 
 
 ---
