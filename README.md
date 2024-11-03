@@ -26,10 +26,8 @@ HardLessonsDoneRight (HLDR) - become a better developer without cheating yoursel
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,replit)](https://skillicons.dev)
 
 ### **Miscellaneous Technologies**
-[![My Skills](https://skillicons.dev/icons?i=arduino,blender,linux,postman,maven,sas,unity,tensorflow,raspberrypi,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,linux,postman,maven,sass,unity,tensorflow,raspberrypi,nextjs,tailwind)](https://skillicons.dev)
 
-### **Contributions & Community**
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 
 ---
