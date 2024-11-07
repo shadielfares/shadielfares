@@ -18,7 +18,7 @@ HardLessonsDoneRight (HLDR) - become a better developer without cheating yoursel
 
 ---
 [![Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadielfares&theme=noctis_minimus)](https://github.com/shadielfares/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shadielfares&theme=noctis_minimus)](https://git.io/streak-stats)
+[![Shadi's Streak](https://streak-stats.demolab.com/?user=shadielfares&theme=noctis_minimus)](https://git.io/streak-stats)
 ---
 
 ## 📦 Toolbox
