@@ -1,64 +1,52 @@
-# Hi there, I am Shadi El-Fares 👋🏽 
-I'm a second-year Software Engineering student [@ McMaster University](https://www.eng.mcmaster.ca/)! Thank you for stopping by! 
+### Hi there 👋🏽
+I'm a software engineering student from Canada, my name is **Shadi**. <br>
 
-I'm into **startups**, **AI**, and *very deep philosophical conversations*.
+🌱 Interests:
+- **Startups**, **AI**, and *very deep philosophical conversations*.
+- Building products people use.
+- Making engineering content (Youtube).
 
----
-### Check out my Portfolio to learn more about me 🫡
-[![Portfolio](./newbanner.png)](https://www.shadielfares.me/)
-### I also make engineering-related YouTube videos on Calculus, DSA, and even thermite... 👀 
-[![YouTube Channel Banner](./yt1-1.png)](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1)
+🥳 Extra:
+- [YouTube](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1)
+- [Portfolio](https://www.shadielfares.me/)
 
-
----
-
-## 🔭 What I’m Currently Working On
-~~A Data Structures and Algorithms crash course!~~ - I found something cooler to build.
-HardLessonsDoneRight (HLDR) - become a better developer without cheating yourself out of the hard-times.
 
 ---
+
+### 🔭 What I’m Currently Working On
+~~HardLessonsDoneRight (HLDR) - become a better developer without cheating yourself out of the hard-times.~~ <br>
+A 3D-Library to make reading cool again.
+
+<!--
+---
+
 [![Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadielfares&theme=noctis_minimus)](https://github.com/shadielfares/github-readme-stats)
 [![Shadi's Streak](https://github-readme-streak-stats-tau-rouge.vercel.app?user=shadielfares&theme=noctis-minimus)](https://git.io/streak-stats)
-## 📦 Toolbox
+---
+--->
+---
+### 📦 Toolbox
 
-### **Languages**
+#### **Languages**
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,cs,matlab,dart,go,html,css,latex,bash,md)](https://skillicons.dev)
 
-### **Frameworks & Libraries**
+#### **Frameworks & Libraries**
 [![My Skills](https://skillicons.dev/icons?i=react,vercel,threejs,django,express,flask,dotnet,wordpress,flutter,bootstrap,vite,sass,nextjs,tailwind,fastapi,ros,graphql,tensorflow,opencv,gatsby)](https://skillicons.dev)
 
-### **Tools & Platforms**
+#### **Tools & Platforms**
 [![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,azure,docker,powershell,heroku,githubactions,gitlab,figma,blender,obsidian,notion)](https://skillicons.dev)
 
-### **Databases & DevOps**
+#### **Databases & DevOps**
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,php,mysql,sqlite,aws,gcp,kubernetes)](https://skillicons.dev)
 
-### **Editors & IDEs**
+#### **Editors & IDEs**
 [![My Skills](https://skillicons.dev/icons?i=neovim,vim,vscode,visualstudio,pycharm,replit)](https://skillicons.dev)
 
-### **Miscellaneous Technologies**
+#### **Miscellaneous Technologies**
 [![My Skills](https://skillicons.dev/icons?i=maven,unity,arduino,raspberrypi,linux,ubuntu,windows,postman)](https://skillicons.dev)
 
 ---
 
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shadielfares)
 [![My Skills](https://skillicons.dev/icons?i=twitter)]((https://twitter.com/shadielfares))
-
-
-
-
-<!-- ![Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadielfares&show_icons=true&theme=radical) -->
-
-<!--
-**shadielfares/shadielfares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
