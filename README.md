@@ -11,6 +11,15 @@ I'm a software engineering student from Canada, my name is **Shadi**. <br>
 - [Portfolio](https://shadielfares.com/)
 - [E-mail](mailto:shadi.elfares@gmail.com?subject=Interested%20in%20Resume)
 - [Everything...](https://linktr.ee/shadielfares)
+---
+
+### 🧑‍🔬 My latest creation
+Made a micro-service to help Muslims, keep track of prayer
+- Check it out here: [Kareem](https://kareem-salah.netlify.app/)
+
+Made a CLI-tool to help developers be less reliant on Ai:
+- [HLDR](https://shadielfares.com/hldr.html)
+ 3D-Library to make reading cool again.
 
 ---
 
