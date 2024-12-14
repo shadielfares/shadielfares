@@ -18,7 +18,7 @@ Made a micro-service to help Muslims, keep track of prayer
 - Check it out here: [Kareem](https://kareem-salah.netlify.app/)
 
 Made a CLI-tool to help developers be less reliant on Ai:
-- [HLDR](https://shadielfares.com/hldr.html)
+- Check it out here: [HLDR](https://shadielfares.com/hldr.html)
 
 ---
 
