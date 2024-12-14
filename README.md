@@ -19,7 +19,6 @@ Made a micro-service to help Muslims, keep track of prayer
 
 Made a CLI-tool to help developers be less reliant on Ai:
 - [HLDR](https://shadielfares.com/hldr.html)
- 3D-Library to make reading cool again.
 
 ---
 
