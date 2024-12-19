@@ -8,7 +8,6 @@ I'm a software engineering student from Canada, my name is **Shadi**. <br>
 
 🥳 Extra:
 - [YouTube](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1)
-- [Portfolio](https://shadielfares.com/)
 - [E-mail](mailto:shadi.elfares@gmail.com?subject=Interested%20in%20Resume)
 - [Everything...](https://linktr.ee/shadielfares)
 ---
