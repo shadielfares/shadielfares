@@ -7,6 +7,7 @@ I'm a software engineering student from Canada, my name is **Shadi**. <br>
 - Making engineering content (Youtube).
 
 🥳 Extra:
+- [Portfolio](https://shadielfares.com)
 - [YouTube](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1)
 - [E-mail](mailto:shadi.elfares@gmail.com?subject=Interested%20in%20Resume)
 - [Everything...](https://linktr.ee/shadielfares)
