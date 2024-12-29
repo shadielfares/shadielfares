@@ -15,7 +15,7 @@ I'm a software engineering student from Canada, my name is **Shadi**. <br>
 
 ### 🧑‍🔬 My latest creation
 Made a micro-service to help Muslims, keep track of prayer
-- Check it out here: [Kareem](https://kareem-salah.netlify.app/)
+- Check it out here: [Kareem](https://shadielfares.com/kareem.html)
 
 Made a CLI-tool to help developers be less reliant on Ai:
 - Check it out here: [HLDR](https://shadielfares.com/hldr.html)
