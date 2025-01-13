@@ -42,7 +42,7 @@ A 3D-Library to make reading cool again.
 [![My Skills](https://skillicons.dev/icons?i=react,vercel,threejs,django,express,flask,dotnet,wordpress,flutter,bootstrap,vite,sass,nextjs,tailwind,fastapi,ros,graphql,tensorflow,opencv,gatsby)](https://skillicons.dev)
 
 #### **Tools & Platforms**
-[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,azure,docker,powershell,heroku,githubactions,gitlab,figma,blender,obsidian,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,azure,docker,powershell,heroku,githubactions,figma,obsidian,notion)](https://skillicons.dev)
 
 #### **Databases & DevOps**
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,php,mysql,sqlite,aws,gcp,kubernetes)](https://skillicons.dev)
