@@ -3,6 +3,7 @@ I'm a software engineering student from Canada, my name is **Shadi**. <br>
 
 🌱 Interests:
 - **Startups**, **AI**, and *very deep philosophical conversations*.
+- I love software design (Martin Fowler, Robert Martin, scaling systems, software design principles). *Lets discuss these anytime*
 - Building products people use.
 - Making engineering content (Youtube).
 
