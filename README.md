@@ -20,14 +20,7 @@ Made a micro-service to help Muslims, keep track of prayer
 
 Made a CLI-tool to help developers be less reliant on Ai:
 - Check it out here: [HLDR](https://shadielfares.com/hldr.html)
-
----
-
-### 🔭 What I’m Currently Working On
-~~HardLessonsDoneRight (HLDR) - become a better developer without cheating yourself out of the hard-times.~~ <br>
-A 3D-Library to make reading cool again.
-
-
+- 
 ---
 
 [![Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadielfares&theme=noctis_minimus)](https://github.com/shadielfares/github-readme-stats)
