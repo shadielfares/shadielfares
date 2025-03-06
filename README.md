@@ -24,7 +24,7 @@ Made a CLI-tool to help developers be less reliant on Ai:
 ---
 
 [![Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadielfares&theme=noctis_minimus)](https://github.com/shadielfares/github-readme-stats)
-[![Shadi's Streak](https://github-readme-streak-stats-tau-rouge.vercel.app?user=shadielfares&theme=noctis-minimus)](https://git.io/streak-stats)
+[![Shadi's Streak](https://github-readme-streak-stats-eta-navy.vercel.app?user=shadielfares&theme=noctis-minimus)](https://git.io/streak-stats)
 
 ---
 ### 📦 Toolbox
