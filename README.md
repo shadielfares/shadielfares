@@ -33,7 +33,7 @@ Made a CLI-tool to help developers be less reliant on Ai:
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,cs,matlab,dart,go,html,css,latex,bash,md)](https://skillicons.dev)
 
 #### **Frameworks & Libraries**
-[![My Skills](https://skillicons.dev/icons?i=react,vercel,threejs,django,express,flask,dotnet,wordpress,flutter,bootstrap,vite,sass,nextjs,tailwind,fastapi,ros,graphql,tensorflow,opencv,gatsby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,threejs,django,express,flask,dotnet,wordpress,flutter,bootstrap,vite,sass,nextjs,tailwind,fastapi,ros,graphql,tensorflow,opencv,gatsby)](https://skillicons.dev)
 
 #### **Tools & Platforms**
 [![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,azure,docker,powershell,heroku,githubactions,figma,obsidian,notion)](https://skillicons.dev)
