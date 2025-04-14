@@ -22,11 +22,6 @@ Made a CLI-tool to help developers be less reliant on Ai:
 - Check it out here: [HLDR](https://shadielfares.com/hldr.html)
   
 ---
-
-[![Shadi's GitHub stats](https://githubstats-crateses-projects.vercel.app/api?username=shadielfares&theme=noctis_minimus&card_width=411)](https://github.com/shadielfares/github-readme-stats)
-[![Shadi's Streak](https://github-readme-streak-stats-eta-navy.vercel.app?user=shadielfares&theme=noctis-minimus&card_width=411)](https://git.io/streak-stats)
-
----
 ### 📦 Toolbox
 
 #### **Languages**
