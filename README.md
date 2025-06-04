@@ -31,10 +31,10 @@ May 2025:
 ### 📦 Toolbox
 
 #### **Languages**
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,cs,matlab,dart,go,html,css,latex,bash,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,cs,matlab,go,html,css,latex,bash,md)](https://skillicons.dev)
 
 #### **Frameworks & Libraries**
-[![My Skills](https://skillicons.dev/icons?i=react,threejs,django,express,flask,dotnet,wordpress,flutter,bootstrap,vite,sass,nextjs,tailwind,fastapi,ros,graphql,tensorflow,opencv,gatsby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,threejs,django,express,flask,dotnet,bootstrap,vite,sass,nextjs,tailwind,fastapi,graphql,tensorflow,pytorch,opencv,gatsby)](https://skillicons.dev)
 
 #### **Tools & Platforms**
 [![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,azure,docker,powershell,heroku,githubactions,figma,obsidian,notion)](https://skillicons.dev)
@@ -46,7 +46,7 @@ May 2025:
 [![My Skills](https://skillicons.dev/icons?i=neovim,vim,vscode,visualstudio,pycharm,replit)](https://skillicons.dev)
 
 #### **Miscellaneous Technologies**
-[![My Skills](https://skillicons.dev/icons?i=maven,unity,arduino,raspberrypi,linux,ubuntu,windows,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=maven,linux,ubuntu,windows,postman)](https://skillicons.dev)
 
 ---
 
