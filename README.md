@@ -16,16 +16,16 @@ I'm a software engineering student from Canada, my name is **Shadi**. <br>
 
 ### 🧑‍🔬 My latest creation
 Made a micro-service to help Muslims, keep track of prayer
-- Check it out here: [Kareem](https://shadielfares.com/kareem.html)
+- Check it out here: [Kareem](https://shadielfares.com/projects/kareemcal)
 
 Made a CLI-tool to help developers be less reliant on Ai:
-- Check it out here: [HLDR](https://www.shadielfares.com/hldr)
+- Check it out here: [HLDR](https://www.shadielfares.com/projects/hldr)
 
 Febuary 2025:
-- Released v2 of HLDR, [Technical Report](https://www.shadielfares.com/hldrv2)
+- Released v2 of HLDR, [Technical Report](https://www.shadielfares.com/projects/hldrv2)
 
 May 2025:
-- Released v2 of Kareem (_aptly named_ DeenCal now), [Technical Report](https://www.shadielfares.com/deencal) - release soon.
+- Released v2 of Kareem (_aptly named_ DeenCal now), [Technical Report](https://www.shadielfares.com/projects/deencal) - release soon.
   
 ---
 ### 📦 Toolbox
