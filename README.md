@@ -1,5 +1,7 @@
 ### Hi there 👋🏽
-I'm a software engineering student from Canada, my name is **Shadi**. <br>
+I'm a software engineering student from Canada, my name is **Shadi**.
+
+<br>
 
 🌱 Interests:
 - **Startups**, **AI**, and *very deep philosophical conversations*.
@@ -7,11 +9,8 @@ I'm a software engineering student from Canada, my name is **Shadi**. <br>
 - Building products people use.
 - Making engineering content (Youtube).
 
-🥳 Extra:
-- [Portfolio](https://shadielfares.com)
-- [YouTube](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1)
-- [E-mail](mailto:shadi.elfares@gmail.com?subject=Interested%20in%20Resume)
-- [Everything...](https://linktr.ee/shadielfares)
+[home](https://shadielfares.com) | [channel](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1) | [mail](mailto:elfaress@mcmaster.ca?subject=Interested%20in%20Resume)
+
 ---
 
 ### 🧑‍🔬 My latest creation
