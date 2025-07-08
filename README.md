@@ -1,57 +1,46 @@
-## Hi there
+# Hi there, I'm Shadi
 
-I'm a software engineering student from Canada, my name is **Shadi**.
+Software engineering student from Canada building products people use.
 
-**Interests:**
-- **Startups**, **AI**, and *very deep philosophical conversations*
-- I love software design (Martin Fowler, Robert Martin, scaling systems, software design principles). *Let's discuss these anytime*
-- Building products people use
-- Making engineering content (YouTube)
+## About Me
 
-**Links:** [Website](https://shadielfares.com) | [YouTube Channel](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1) | [Email](mailto:elfaress@mcmaster.ca?subject=Interested%20in%20Resume)
-
----
+I'm passionate about:
+- **Startups**, **AI**, and deep philosophical conversations
+- Software design principles (Martin Fowler, Robert Martin, scaling systems)
+- Building products that solve real problems
+- Creating engineering content on YouTube
 
 ## Recent Projects
 
-**Kareem** - A micro-service to help Muslims keep track of prayer times
-- Check it out here: [Kareem](https://shadielfares.com/projects/kareemcal)
+**DeenCal** (May 2025)  
+Prayer tracking micro-service for Muslims - evolved from my earlier project Kareem  
+[Project Page](https://www.shadielfares.com/projects/deencal) | [Technical Report](https://www.shadielfares.com/projects/deencal)
 
-**HLDR** - A CLI-tool to help developers be less reliant on AI
-- Check it out here: [HLDR](https://www.shadielfares.com/projects/hldr)
+**HLDR v2** (February 2025)  
+CLI tool to help developers reduce AI dependency  
+[Project Page](https://www.shadielfares.com/projects/hldr) | [Technical Report](https://www.shadielfares.com/projects/hldrv2)
 
-**Recent Updates:**
-- **February 2025:** Released v2 of HLDR, [Technical Report](https://www.shadielfares.com/projects/hldrv2)
-- **May 2025:** Released v2 of Kareem (_aptly named_ DeenCal now), [Technical Report](https://www.shadielfares.com/projects/deencal) - release soon
-  
----
-## Technical Skills
+## Tech Stack
 
-**Languages**
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,cs,matlab,go,html,css,latex,bash,md)](https://skillicons.dev)
+**Languages**  
+[![Languages](https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,cs,matlab,go,html,css,latex,bash,md)](https://skillicons.dev)
 
-**Frameworks & Libraries**
-[![My Skills](https://skillicons.dev/icons?i=react,threejs,django,express,flask,dotnet,bootstrap,vite,sass,nextjs,tailwind,fastapi,graphql,tensorflow,pytorch,opencv,gatsby)](https://skillicons.dev)
+**Frameworks & Libraries**  
+[![Frameworks](https://skillicons.dev/icons?i=react,threejs,django,express,flask,dotnet,bootstrap,vite,sass,nextjs,tailwind,fastapi,graphql,tensorflow,pytorch,opencv,gatsby)](https://skillicons.dev)
 
-**Tools & Platforms**
-[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,azure,docker,powershell,heroku,githubactions,figma,obsidian,notion)](https://skillicons.dev)
+**Tools & Platforms**  
+[![Tools](https://skillicons.dev/icons?i=git,github,firebase,aws,azure,docker,powershell,heroku,githubactions,figma,obsidian,notion)](https://skillicons.dev)
 
-**Databases & DevOps**
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,php,mysql,sqlite,aws,gcp,kubernetes)](https://skillicons.dev)
+**Databases & DevOps**  
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,php,mysql,sqlite,aws,gcp,kubernetes)](https://skillicons.dev)
 
-**Editors & IDEs**
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,vscode,visualstudio,pycharm,replit)](https://skillicons.dev)
+**Development Environment**  
+[![Dev Tools](https://skillicons.dev/icons?i=neovim,vim,vscode,visualstudio,pycharm,replit,maven,linux,ubuntu,windows,postman)](https://skillicons.dev)
 
-**Miscellaneous Technologies**
-[![My Skills](https://skillicons.dev/icons?i=maven,linux,ubuntu,windows,postman)](https://skillicons.dev)
+## Connect
+
+[Website](https://shadielfares.com) | [YouTube](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1) | [LinkedIn](https://linkedin.com/in/shadielfares) | [Twitter](https://twitter.com/shadielfares) | [Email](mailto:elfaress@mcmaster.ca?subject=Interested%20in%20Resume)
 
 ---
 
-## Connect With Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shadielfares)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/shadielfares)
-
----
-
-*Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on projects or discuss software engineering topics.*
+*Always up for discussing software design principles, scaling systems, or diving into philosophical conversations.*
