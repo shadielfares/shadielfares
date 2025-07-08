@@ -1,54 +1,57 @@
-### Hi there 👋🏽
+## Hi there
+
 I'm a software engineering student from Canada, my name is **Shadi**.
 
-<br>
+**Interests:**
+- **Startups**, **AI**, and *very deep philosophical conversations*
+- I love software design (Martin Fowler, Robert Martin, scaling systems, software design principles). *Let's discuss these anytime*
+- Building products people use
+- Making engineering content (YouTube)
 
-🌱 Interests:
-- **Startups**, **AI**, and *very deep philosophical conversations*.
-- I love software design (Martin Fowler, Robert Martin, scaling systems, software design principles). *Lets discuss these anytime*
-- Building products people use.
-- Making engineering content (Youtube).
-
-[home](https://shadielfares.com) | [channel](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1) | [mail](mailto:elfaress@mcmaster.ca?subject=Interested%20in%20Resume)
+**Links:** [Website](https://shadielfares.com) | [YouTube Channel](https://www.youtube.com/channel/UChuTtnCJpN_MXNnR5avaeXg?sub_confirmation=1) | [Email](mailto:elfaress@mcmaster.ca?subject=Interested%20in%20Resume)
 
 ---
 
-### 🧑‍🔬 My latest creation
-Made a micro-service to help Muslims, keep track of prayer
+## Recent Projects
+
+**Kareem** - A micro-service to help Muslims keep track of prayer times
 - Check it out here: [Kareem](https://shadielfares.com/projects/kareemcal)
 
-Made a CLI-tool to help developers be less reliant on Ai:
+**HLDR** - A CLI-tool to help developers be less reliant on AI
 - Check it out here: [HLDR](https://www.shadielfares.com/projects/hldr)
 
-Febuary 2025:
-- Released v2 of HLDR, [Technical Report](https://www.shadielfares.com/projects/hldrv2)
-
-May 2025:
-- Released v2 of Kareem (_aptly named_ DeenCal now), [Technical Report](https://www.shadielfares.com/projects/deencal) - release soon.
+**Recent Updates:**
+- **February 2025:** Released v2 of HLDR, [Technical Report](https://www.shadielfares.com/projects/hldrv2)
+- **May 2025:** Released v2 of Kareem (_aptly named_ DeenCal now), [Technical Report](https://www.shadielfares.com/projects/deencal) - release soon
   
 ---
-### 📦 Toolbox
+## Technical Skills
 
-#### **Languages**
+**Languages**
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,cs,matlab,go,html,css,latex,bash,md)](https://skillicons.dev)
 
-#### **Frameworks & Libraries**
+**Frameworks & Libraries**
 [![My Skills](https://skillicons.dev/icons?i=react,threejs,django,express,flask,dotnet,bootstrap,vite,sass,nextjs,tailwind,fastapi,graphql,tensorflow,pytorch,opencv,gatsby)](https://skillicons.dev)
 
-#### **Tools & Platforms**
+**Tools & Platforms**
 [![My Skills](https://skillicons.dev/icons?i=git,github,firebase,aws,azure,docker,powershell,heroku,githubactions,figma,obsidian,notion)](https://skillicons.dev)
 
-#### **Databases & DevOps**
+**Databases & DevOps**
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,php,mysql,sqlite,aws,gcp,kubernetes)](https://skillicons.dev)
 
-#### **Editors & IDEs**
+**Editors & IDEs**
 [![My Skills](https://skillicons.dev/icons?i=neovim,vim,vscode,visualstudio,pycharm,replit)](https://skillicons.dev)
 
-#### **Miscellaneous Technologies**
+**Miscellaneous Technologies**
 [![My Skills](https://skillicons.dev/icons?i=maven,linux,ubuntu,windows,postman)](https://skillicons.dev)
 
 ---
 
-### 📫 How to Reach Me
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shadielfares)
-[![My Skills](https://skillicons.dev/icons?i=twitter)]((https://twitter.com/shadielfares))
+## Connect With Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shadielfares)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/shadielfares)
+
+---
+
+*Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on projects or discuss software engineering topics.*
