@@ -14,11 +14,11 @@ I'm passionate about:
 
 **DeenCal** (May 2025)  
 Prayer tracking micro-service for Muslims - evolved from my earlier project Kareem  
-[Project Page](https://www.shadielfares.com/projects/deencal) | [Technical Report](https://www.shadielfares.com/projects/deencal)
+[Project Page](https://deencal.com) | [Technical Report](https://www.shadielfares.com/projects/deencal)
 
 **HLDR v2** (February 2025)  
 CLI tool to help developers reduce AI dependency  
-[Project Page](https://www.shadielfares.com/projects/hldr) | [Technical Report](https://www.shadielfares.com/projects/hldrv2)
+[Project Page](https://marketplace.visualstudio.com/items?itemName=ShadiEl-Fares.hldr-extension) | [Technical Report](https://www.shadielfares.com/projects/hldrv2)
 
 ## Tech Stack
 
