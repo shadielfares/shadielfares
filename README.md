@@ -29,10 +29,10 @@ CLI tool to help developers reduce AI dependency
 [![Frameworks](https://skillicons.dev/icons?i=react,threejs,django,express,flask,dotnet,bootstrap,vite,sass,nextjs,tailwind,fastapi,graphql,tensorflow,pytorch,opencv,gatsby)](https://skillicons.dev)
 
 **Tools & Platforms**  
-[![Tools](https://skillicons.dev/icons?i=git,github,firebase,aws,azure,docker,powershell,heroku,githubactions,figma,obsidian,notion)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,firebase,gcp,aws,docker,powershell,heroku,githubactions,figma,obsidian,notion)](https://skillicons.dev)
 
 **Databases & DevOps**  
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,php,mysql,sqlite,aws,gcp,kubernetes)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,php,mysql,sqlite,gcp,kubernetes)](https://skillicons.dev)
 
 **Development Environment**  
 [![Dev Tools](https://skillicons.dev/icons?i=neovim,vim,vscode,visualstudio,pycharm,replit,maven,linux,ubuntu,windows,postman)](https://skillicons.dev)
